@@ -1,5 +1,5 @@
-bin
-etc
-lib
+bin/
+etc/
+lib/
 pyvenv.cfg
-share
+share/
