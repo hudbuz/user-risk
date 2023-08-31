@@ -1,0 +1,7 @@
+grpc:
+    core:
+        address: 'grpc.qwak.ai'
+        enable_ssl: True
+    builds:
+        internal_address: 'builds-orchestrator-webapp.default.svc.cluster.local:6577'
+        enable_ssl: False

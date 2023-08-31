@@ -1,0 +1,2 @@
+TEMP_LOCAL_MODEL_DIR = "model_code"
+TEMP_LOCAL_EDITABLE_SDK = "editable"

@@ -1,0 +1,6 @@
+MODEL_CODE_TAG = "code.zip"
+SKINNY_MODEL_CODE_TAG = "skinny_code.zip"
+QWAK_SDK_VERSION_TAG = "qwak_sdk_version"
+QWAK_RUNTIME_WHEEL_TAG = "qwak_runtime_wheel"
+QWAK_CORE_WHEEL_TAG = "qwak_core_wheel"
+BUILD_CONFIG_TAG = "qwak_build_config"

@@ -1,0 +1,2 @@
+class QwakCommandException(Exception):
+    pass

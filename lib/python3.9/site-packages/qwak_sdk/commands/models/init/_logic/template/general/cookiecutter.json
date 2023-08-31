@@ -1,0 +1,6 @@
+{
+    "model_directory": "model",
+    "main_directory": "main",
+    "test_directory": "tests",
+    "model_class_name": "modelPrediction"
+}

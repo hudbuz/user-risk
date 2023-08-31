@@ -1,0 +1,2 @@
+class QwakResourceNotFound(Exception):
+    pass

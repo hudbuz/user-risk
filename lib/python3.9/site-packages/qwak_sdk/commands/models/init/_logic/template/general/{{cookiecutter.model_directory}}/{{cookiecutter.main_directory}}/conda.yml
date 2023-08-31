@@ -1,0 +1,8 @@
+name: {{cookiecutter.model_class_name}}
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip=22.2.2
+  - pandas=1.1.5
